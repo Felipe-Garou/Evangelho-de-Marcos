@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body
+{
+background-color: rgb(145, 177, 177);
+text-align:justify;
+}
+h1 
+{
+  margin-left: 250px;
+}
+h2
+{
+    background-color: cornsilk;
+    margin-left: 250px;
+
+}
+h3 
+{
+margin-left: 250px;
+
+}
+p 
+{
+    margin-left: 250px;
+    font-size: larger;
+}
